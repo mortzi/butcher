@@ -1,5 +1,5 @@
 
-# ASP.NET Core Webhook Example
+# Butcher is a telegram bot. It can save trades in a remote SQLite database
 
 ## About
 
